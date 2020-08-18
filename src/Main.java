@@ -1,14 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        int n1 = 5;
-        System.out.println(+n1);
-        System.out.println(-n1);
-
-        short n2 = 7;
-        int n3 = +n2;
-        int n4 = -n2;
-        System.out.println(n3);
-        System.out.println(n4);
+        int num = 120;
+        if (num > 0 && (num % 2) == 0)
+            System.out.println("num은 양수이면서 짝수입니다");
     }
 }
