@@ -2,5 +2,8 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        // 1. collection framework 전까지 학습완료
+        // 2. collection framework는 자료구조, 알고리즘과 관련이 많으므로 자료구조/알고리즘과 관련된 강의를 다 들은 후에 다시 학습할 것
+        // 3. 백준의 알고리즘과 기존에 진도가 나가지않은 책 [난 정말 JAVA를 공부한적이 없어요]를 병행해도 괜찮을 듯
     }
 }
