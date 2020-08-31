@@ -25,6 +25,15 @@ public class Main {
 
         // 문제 풀이 및 정리
 
+
+        // feature/first-java-program
+        System.out.println("Welcome to Java");
+        System.out.println("First Java program");
+        // 1. Java source code를 compiler가 bite code로 변경
+        // 2. Example.java -> 이게 java scource code
+        // 3. Java byte code란? -> java compiler에 의해 생성되는 코드이다.
+        // 결론 Example.java -> [javac.exe(javac compiler)] compile.... -> [Example.class | Java virtual machine] 이 두개는 java.exe에 의해 실행됨
+
         // feature/88p-4-1-1
         /*
         int num1,num2,num3;
@@ -36,6 +45,18 @@ public class Main {
 
         System.out.println("Result of num1 - " + num1);
         */
+
+        // feature/do-white-basic
+        /*
+        int num = 0;
+        do {
+            System.out.println("I like java " + num);
+            num++;
+        }
+        while (num < 5);
+        */
+
+
 
         // feature/88p-4-1-2
 
@@ -67,14 +88,14 @@ public class Main {
         System.out.println(isBig);
         */
 
-        // 115P-5-1-1
+        // feature/115P-5-1-1
         /*
         int num = 120;
         if (num > 0 && (num % 2) == 0)
             System.out.println("num은 양수이면서 짝수입니다");
         */
 
-        // 115P-5-1-2
+        // feature/115P-5-1-2
         /*
         int num = 220;
         if(num < 0) {
@@ -91,7 +112,7 @@ public class Main {
         */
 
 
-        // 127p
+        // feature/127p
         // example 1
         /*
         int num = 0, sum = 0;
@@ -126,7 +147,7 @@ public class Main {
         System.out.println("2의 배수이면서, 7의 배수의 합: "+sum2);
         */
 
-        // 131p-5-5
+        // feature/131p-5-5
         /*
         // example 1
         int sum = 1;
@@ -143,7 +164,7 @@ public class Main {
         }
         */
 
-        // 143p-5-7
+        // feature/143p-5-7
         /*
         for (int i = 0; i <= 8; i += 2) {
             if (i > 0) {
@@ -156,7 +177,7 @@ public class Main {
         }
         */
 
-        // 347p-13-1
+        // feature/347p-13-1
         /*
         int[][] dummyArray = {
                 {1, 2, 3},
@@ -170,17 +191,5 @@ public class Main {
             }
         }
         */
-
-        // do-white-basic
-        /*
-        int num = 0;
-        do {
-            System.out.println("I like java " + num);
-            num++;
-        }
-        while (num < 5);
-        */
-
-
     }
 }
