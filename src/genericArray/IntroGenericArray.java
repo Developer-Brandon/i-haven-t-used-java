@@ -1,3 +1,5 @@
+package genericArray;
+
 public class IntroGenericArray {
 
     public static <T> void showArrayData(T[] arr) {
