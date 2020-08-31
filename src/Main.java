@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-<<<<<<<HEAD
         /* */
 
         // 더 나아가야할 점, 보완해야할 점, 진행상황
