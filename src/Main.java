@@ -55,6 +55,13 @@ public class Main {
         }
     }
 
+    public static void showHi(int cnt) {
+        System.out.println("Hi~");
+        showHi(cnt--);
+        if (cnt == 1)
+            return;
+    }
+
     public static void main(String[] args) {
         /* */
 
@@ -116,6 +123,12 @@ public class Main {
 
         System.out.println("과일 구매자의 현재 상황");
         buyer.showBuyResult();
+        */
+
+        // feature/inf-recul
+        /*
+        System.out.println("Hello World!");
+        showHi(3);
         */
 
         // feature/88p-4-1-2
@@ -251,6 +264,5 @@ public class Main {
             }
         }
         */
-
     }
 }
