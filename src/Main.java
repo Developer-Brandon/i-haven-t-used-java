@@ -88,7 +88,6 @@ public class Main {
         numberParam.addNum(12);
     }
 
-
     public static void main(String[] args) {
         /* */
 
@@ -184,6 +183,22 @@ public class Main {
             num++;
         }
         while (num < 5);
+        */
+
+        // feature/switch-basic
+        /*
+        int n = 3;
+        switch (n) {
+            case 1:
+                System.out.println("Simple Java");
+            case 2:
+                System.out.println("Funny Java");
+            case 3:
+                System.out.println("Fantastic Java");
+            default:
+                System.out.println("The best programming language");
+        }
+        System.out.println("Do you like coffee?");
         */
 
         // feature/88p-4-1-2
