@@ -1,3 +1,5 @@
+package genericBase;
+
 class Orange {
     //
     int sugarContent;
