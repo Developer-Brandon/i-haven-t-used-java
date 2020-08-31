@@ -40,7 +40,21 @@ class FruitBuyer {
     }
 }
 
+class Number {
+    int num = 0;
+
+    public void addNum(int n) {
+        num += n;
+    }
+
+    public int getNumber() {
+        return num;
+    }
+}
+
+
 public class Main {
+
     public static void addOneDArr(int[] arr, int add) {
         for (int i = 0; i < arr.length; i++) {
             arr[i] += add;
@@ -62,6 +76,12 @@ public class Main {
             return;
     }
 
+
+    public static void simpleMethod(Number numberParam) {
+        numberParam.addNum(12);
+    }
+
+
     public static void main(String[] args) {
         /* */
 
@@ -80,6 +100,13 @@ public class Main {
         // 2. Example.java -> 이게 java scource code
         // 3. Java byte code란? -> java compiler에 의해 생성되는 코드이다.
         // 결론 Example.java -> [javac.exe(javac compiler)] compile.... -> [Example.class | Java virtual machine] 이 두개는 java.exe에 의해 실행됨
+
+        // feature/ pass-instance
+        Number newInstance = new Number();
+        System.out.println("메소드 호출 전: " + newInstance.getNumber());
+
+        simpleMethod(newInstance);
+        System.out.println("메소드 호출 후: " + newInstance.getNumber());
 
         // feature/88p-4-1-1
         /*
@@ -183,7 +210,6 @@ public class Main {
             System.out.println("300이상");
         }
         */
-
 
         // feature/127p
         // example 1
