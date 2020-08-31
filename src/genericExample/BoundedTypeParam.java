@@ -1,24 +1,26 @@
+package genericExample;
+
 interface SimpleInterface {
     public void showYourName();
 }
 
 class UpperClass {
     public void showYourAncestor() {
-        System.out.println("UpperClass");
+        System.out.println("genericExample.UpperClass");
     }
 }
 
 class AAA extends UpperClass implements SimpleInterface {
     @Override
     public void showYourName() {
-        System.out.println("Class AAA");
+        System.out.println("Class genericExample.AAA");
     }
 }
 
 class BBB extends UpperClass implements SimpleInterface {
     @Override
     public void showYourName() {
-        System.out.println("Class BBB");
+        System.out.println("Class genericExample.BBB");
     }
 }
 
