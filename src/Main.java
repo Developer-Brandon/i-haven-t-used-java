@@ -40,7 +40,15 @@ public class Main {
         // feature/88p-4-1-2
 
         // feature/88p-4-1-3
+        /*
+        int A = 25 * 5;
+        int B = 36 - 4;
+        int C = 72;
+        System.out.println("RESULT - "+ (A+B-C) / 5);
+        */
+
         // feature/88p-4-1-4
+
         // feature/88p-4-1-5
 
 
