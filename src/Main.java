@@ -122,28 +122,6 @@ public class Main {
         System.out.println("12 factorial : " + factorial(12));
         */
 
-        // feature/88p-4-1-1
-        /*
-        int num1,num2,num3;
-        num1 = 10;
-        num2 = 20;
-        num3 = 30;
-
-        num1 = num2 = num3;
-
-        System.out.println("Result of num1 - " + num1);
-        */
-
-        // feature/do-white-basic
-        /*
-        int num = 0;
-        do {
-            System.out.println("I like java " + num);
-            num++;
-        }
-        while (num < 5);
-        */
-
         // feature/fruit-sales-main
         /*
         FruitSeller seller1 = new FruitSeller();
@@ -170,6 +148,42 @@ public class Main {
         /*
         System.out.println("Hello World!");
         showHi(3);
+        */
+
+        // feature/sce
+        /*
+        int num1=0, num2=0;
+        boolean result, result2;
+
+        result = (num1+=10)<0 && (num2+=10)>0;
+        System.out.println("result="+result);
+        System.out.println("num1="+num1+", num2="+num2);
+
+        result2 = (num1+=10)>0 || (num2+=10)>0;
+        System.out.println("result2="+result2);
+        System.out.println("num1="+num1+", num2="+num2);
+        */
+
+        // feature/88p-4-1-1
+        /*
+        int num1,num2,num3;
+        num1 = 10;
+        num2 = 20;
+        num3 = 30;
+
+        num1 = num2 = num3;
+
+        System.out.println("Result of num1 - " + num1);
+        */
+
+        // feature/do-white-basic
+        /*
+        int num = 0;
+        do {
+            System.out.println("I like java " + num);
+            num++;
+        }
+        while (num < 5);
         */
 
         // feature/88p-4-1-2
