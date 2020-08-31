@@ -170,5 +170,17 @@ public class Main {
             }
         }
         */
+
+        // do-white-basic
+        /*
+        int num = 0;
+        do {
+            System.out.println("I like java " + num);
+            num++;
+        }
+        while (num < 5);
+        */
+
+
     }
 }
