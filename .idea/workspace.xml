@@ -24,6 +24,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="bc4c63e7-eb00-43e0-aa8b-90cf71e98ca1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
 =======
@@ -145,6 +146,11 @@
       <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/IntroGenericMethod2.java" />
     </list>
 >>>>>>> feature/intro-generic-method2
+=======
+    <list default="true" id="a3465450-7411-47ea-b8e2-a68b2ee1bf11" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/IntroWildCard.java" />
+    </list>
+>>>>>>> feature/intro-whild-card
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -154,6 +160,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -464,12 +471,22 @@
               <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding />
 >>>>>>> feature/intro-generic-method2
+=======
+    <leaf>
+      <file leaf-file-name="IntroWildCard.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IntroWildCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+              <folding />
+>>>>>>> feature/intro-whild-card
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -508,6 +525,8 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -516,6 +535,7 @@
       <projects_view />
     </option>
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -549,10 +569,13 @@
 >>>>>>> feature/fruit-sales-main
 =======
 >>>>>>> feature/inf-recul
+=======
+>>>>>>> feature/intro-whild-card
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -673,6 +696,12 @@
     </option>
   </component>
 >>>>>>> feature/intro-generic-method2
+=======
+        <option value="$PROJECT_DIR$/src/IntroWildCard.java" />
+      </list>
+    </option>
+  </component>
+>>>>>>> feature/intro-whild-card
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -680,6 +709,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -764,10 +794,13 @@
 =======
 =======
 >>>>>>> feature/intro-generic-array
+=======
+>>>>>>> feature/intro-whild-card
     <option name="x" value="1926" />
     <option name="y" value="4" />
     <option name="width" value="1914" />
     <option name="height" value="1076" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> feature/bounded-type-param2
 =======
@@ -868,6 +901,9 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+  </component>
+>>>>>>> feature/intro-whild-card
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -883,6 +919,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1004,10 +1041,15 @@
       <pane id="PackagesPane" />
       <pane id="Scratches" />
 >>>>>>> feature/intro-generic-method2
+=======
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+>>>>>>> feature/intro-whild-card
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1076,6 +1118,8 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
               <item name="IhaventUsedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="IhaventUsedJava" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -1083,6 +1127,7 @@
               <item name="IhaventUsedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="IhaventUsedJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1110,10 +1155,13 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
             </path>
             <path>
               <item name="IhaventUsedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="IhaventUsedJava" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1190,11 +1238,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="IntroGenericMethod2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
 >>>>>>> feature/intro-generic-method2
+=======
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IntroWildCard.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+>>>>>>> feature/intro-whild-card
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1297,11 +1350,16 @@
       <pane id="AndroidView" />
       <pane id="Scope" />
 >>>>>>> feature/intro-generic-method2
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> feature/intro-whild-card
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1370,6 +1428,8 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1391,6 +1451,7 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1558,6 +1619,8 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1632,6 +1695,7 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1775,6 +1839,8 @@
       </list>
     </recent_temporary>
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -1789,6 +1855,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2002,10 +2069,19 @@
       <updated>1598158580954</updated>
       <workItem from="1598158582206" duration="807000" />
 >>>>>>> feature/intro-generic-method2
+=======
+      <changelist id="a3465450-7411-47ea-b8e2-a68b2ee1bf11" name="Default" comment="" />
+      <created>1598162366799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598162366799</updated>
+      <workItem from="1598162367943" duration="780000" />
+>>>>>>> feature/intro-whild-card
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2166,6 +2242,9 @@
 =======
     <option name="totallyTimeSpent" value="807000" />
 >>>>>>> feature/intro-generic-method2
+=======
+    <option name="totallyTimeSpent" value="780000" />
+>>>>>>> feature/intro-whild-card
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
@@ -2181,6 +2260,7 @@
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2254,10 +2334,14 @@
 =======
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
 >>>>>>> feature/intro-generic-method2
+=======
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> feature/intro-whild-card
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2347,11 +2431,14 @@
 >>>>>>> feature/bounded-type-param
 =======
 >>>>>>> feature/inf-recul
+=======
+>>>>>>> feature/intro-whild-card
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> feature/88p-4-1-2
@@ -2399,10 +2486,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2462,6 +2552,8 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2470,6 +2562,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2537,11 +2630,14 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2625,10 +2721,13 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2662,6 +2761,9 @@
 =======
     <breakpoint-manager />
 >>>>>>> feature/intro-generic-method2
+=======
+    <breakpoint-manager />
+>>>>>>> feature/intro-whild-card
     <watches-manager />
   </component>
   <component name="atlassian-ide-plugin-workspace-issues">
@@ -2672,6 +2774,7 @@
     </option>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2963,10 +3066,17 @@
         <state relative-caret-position="273">
           <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
 >>>>>>> feature/intro-generic-method2
+=======
+    <entry file="file://$PROJECT_DIR$/src/IntroWildCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+>>>>>>> feature/intro-whild-card
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2983,5 +3093,7 @@
 >>>>>>> feature/intro-generic-method
 =======
 >>>>>>> feature/intro-generic-method2
+=======
+>>>>>>> feature/intro-whild-card
   </component>
 </project>
