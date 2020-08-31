@@ -31,5 +31,38 @@ public class Main {
         */
 
 
+        /* */
+
+        // example 1
+        int num = 0, sum = 0;
+        while(num < 100) {
+            sum += num;
+            num ++;
+            System.out.println("num: " + num);
+        }
+        System.out.println("sum: " + sum);
+
+        // example 2
+        int num2 = 0;
+        while(num2 < 100) {
+            num2++;
+            System.out.println("1~100까지 작성: " + num2);
+        }
+        //
+        do {
+            num2--;
+            System.out.println("100~1까지 작성: " + num2);
+        } while(num2 >= 1);
+
+        // example 3
+        int num3 = 0, sum2 = 0;
+        while(num3 <= 1000) {
+            num3++;
+            if((num3 % 2 == 0) && (num3 % 7 == 0)) {
+                System.out.println("2의 배수이면서, 7의 배수: " + num3);
+                sum2 += num3;
+            }
+        }
+        System.out.println("2의 배수이면서, 7의 배수의 합: "+sum2);
     }
 }
