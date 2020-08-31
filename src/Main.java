@@ -163,6 +163,19 @@ public class Main {
         System.out.println("num1="+num1+", num2="+num2);
         */
 
+        // feature/uni-code-char
+        /*
+        char ch1='A';
+        char ch2='한';
+        char ch3=0x3091;
+        char ch4=0x3092;
+
+        System.out.println(ch1);
+        System.out.println(ch2);
+        System.out.println(ch3);
+        System.out.println(ch4);
+        */
+
         // feature/88p-4-1-1
         /*
         int num1,num2,num3;
