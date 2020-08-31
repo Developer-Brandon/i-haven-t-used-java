@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+<<<<<<<HEAD
         /* */
 
         // 더 나아가야할 점, 보완해야할 점, 진행상황
@@ -68,7 +69,24 @@ public class Main {
         System.out.println("2의 배수이면서, 7의 배수의 합: "+sum2);
         */
 
-        //
+        // 131p-5-5
+        /*
+        // example 1
+        int sum = 1;
+        for (int i = 1,j = 10; i<=j; i++) {
+            sum = sum * i;
+            System.out.println("1부터 10까지 곱하는 과정: " + sum);
+        }
+        System.out.println("1부터 10까지 곱하는 결과: " + sum);
 
+        // example 2
+        int standardValueOfGuGudan = 5;
+        for (int i = 1, j = 9; i<=j; i++) {
+            System.out.println("구구단을 외자(5단): " + standardValueOfGuGudan * i);
+        }
+        */
+
+        // 143p-5-7
+        /* */
     }
 }
