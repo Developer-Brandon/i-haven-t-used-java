@@ -54,6 +54,13 @@ class Number {
 
 
 public class Main {
+    public static int factorial(int n) {
+        if(n==1) {
+            return 1;
+        } else {
+            return n*factorial(n-1);
+        }
+    }
 
     public static void addOneDArr(int[] arr, int add) {
         for (int i = 0; i < arr.length; i++) {
@@ -92,21 +99,28 @@ public class Main {
 
         // 문제 풀이 및 정리
 
-
         // feature/first-java-program
         System.out.println("Welcome to Java");
         System.out.println("First Java program");
+
         // 1. Java source code를 compiler가 bite code로 변경
         // 2. Example.java -> 이게 java scource code
         // 3. Java byte code란? -> java compiler에 의해 생성되는 코드이다.
         // 결론 Example.java -> [javac.exe(javac compiler)] compile.... -> [Example.class | Java virtual machine] 이 두개는 java.exe에 의해 실행됨
 
         // feature/ pass-instance
+        /*
         Number newInstance = new Number();
         System.out.println("메소드 호출 전: " + newInstance.getNumber());
-
         simpleMethod(newInstance);
         System.out.println("메소드 호출 후: " + newInstance.getNumber());
+        */
+
+        // feature/recul-factorial
+        /*
+        System.out.println("3 factorial : " + factorial(3));
+        System.out.println("12 factorial : " + factorial(12));
+        */
 
         // feature/88p-4-1-1
         /*
