@@ -24,6 +24,26 @@ public class Main {
         // 3. 백준의 알고리즘과 기존에 진도가 나가지않은 책 [난 정말 JAVA를 공부한적이 없어요]를 병행해도 괜찮을 듯
 
         // 문제 풀이 및 정리
+
+        // feature/88p-4-1-1
+        /*
+        int num1,num2,num3;
+        num1 = 10;
+        num2 = 20;
+        num3 = 30;
+
+        num1 = num2 = num3;
+
+        System.out.println("Result of num1 - " + num1);
+        */
+
+        // feature/88p-4-1-2
+
+        // feature/88p-4-1-3
+        // feature/88p-4-1-4
+        // feature/88p-4-1-5
+
+
         // 115P-5-1-1
         /*
         int num = 120;
