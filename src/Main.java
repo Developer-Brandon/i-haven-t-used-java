@@ -83,7 +83,6 @@ public class Main {
             return;
     }
 
-
     public static void simpleMethod(Number numberParam) {
         numberParam.addNum(12);
     }
@@ -174,6 +173,15 @@ public class Main {
         System.out.println(ch2);
         System.out.println(ch3);
         System.out.println(ch4);
+        */
+
+        // feature/variable-decl
+        /*
+        double num1, num2, result;
+        num1=1.00001;
+        num2=2.00002;
+        result=num1+num2;
+        System.out.println(result);
         */
 
         // feature/88p-4-1-1
