@@ -2,6 +2,8 @@ public class Main {
 
     public static void main(String[] args) {
         /* */
+
+        // 더 나아가야할 점, 보완해야할 점, 진행상황
         // 1. collection framework 전까지 학습완료
         // 2. collection framework는 자료구조, 알고리즘과 관련이 많으므로 자료구조/알고리즘과 관련된 강의를 다 들은 후에 다시 학습할 것
         // 3. 백준의 알고리즘과 기존에 진도가 나가지않은 책 [난 정말 JAVA를 공부한적이 없어요]를 병행해도 괜찮을 듯
@@ -31,9 +33,9 @@ public class Main {
         */
 
 
-        /* */
-
+        // 127p
         // example 1
+        /*
         int num = 0, sum = 0;
         while(num < 100) {
             sum += num;
@@ -64,5 +66,9 @@ public class Main {
             }
         }
         System.out.println("2의 배수이면서, 7의 배수의 합: "+sum2);
+        */
+
+        //
+
     }
 }
